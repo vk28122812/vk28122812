@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vk28122812)](https://github.com/vk28122812/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vk28122812)](https://github.com/vk28122812/github-profile-trophy)
